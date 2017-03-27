@@ -1,0 +1,29 @@
+.feedbackimage {
+				position: absolute;
+				padding: 1px 0 0 3px;
+			}
+			form {
+				line-height: 20	px;
+				vertical-align: middle;
+				margin-right: 30px;
+			}
+			.upper {
+				font-size: .7em;
+				vertical-align: 45%;
+			}
+			.lower {
+				font-size: .7em;
+				vertical-align: -25%;
+			}
+			.feedbackimage {
+				position: absolute;
+				padding: 1px 0 0 3px;
+			}
+			#margin {
+				float: left;
+				margin-top: 4px;
+			}
+			.tjekSvar {
+				float: left;
+				margin: 10px 0 0 4px;
+			}
